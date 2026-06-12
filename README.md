@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Ricardo Cheron 👋</h1>
 
 <p align="center">
   <em>"Discipline is the bridge between goals and achievement." — Mindset Konbatan 🎙️</em>
