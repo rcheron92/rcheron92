@@ -58,6 +58,13 @@
 
 ---
 
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/rcheron92/rcheron92/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ### 🤝 Connect & Support
 <p align="center">
   <a href="https://damemariesos.com"><img src="https://img.shields.io/badge/-YNVPD-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
