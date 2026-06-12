@@ -13,18 +13,18 @@
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT/IoT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Groovy](https://img.shields.io/badge/groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
 ---
 
@@ -47,20 +47,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcheron92&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcheron92&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rcheron92&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rcheron92&theme=dark&hide_border=false" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcheron92&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rcheron92&theme=tokyonight&no-frame=true&row=1&column=4" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcheron92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
 </p>
 
----
-
-### 🐍 Contribution Graph
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.com/rcheron92/rcheron92/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rcheron92&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ---
@@ -70,4 +67,8 @@
   <a href="https://damemariesos.com"><img src="https://img.shields.io/badge/-YNVPD-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Podcast-FF0000?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rcheron92&icon=0&color=0" alt="visitor count"/>
 </p>
